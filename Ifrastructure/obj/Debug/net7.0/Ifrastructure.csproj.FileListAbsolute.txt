@@ -1,0 +1,5 @@
+D:\coftclub\C#\week2\Exam2\Ifrastructure\obj\Debug\net7.0\Ifrastructure.csproj.AssemblyReference.cache
+D:\coftclub\C#\week2\Exam2\Ifrastructure\obj\Debug\net7.0\Ifrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week2\Exam2\Ifrastructure\obj\Debug\net7.0\Ifrastructure.AssemblyInfoInputs.cache
+D:\coftclub\C#\week2\Exam2\Ifrastructure\obj\Debug\net7.0\Ifrastructure.AssemblyInfo.cs
+D:\coftclub\C#\week2\Exam2\Ifrastructure\obj\Debug\net7.0\Ifrastructure.csproj.CoreCompileInputs.cache
